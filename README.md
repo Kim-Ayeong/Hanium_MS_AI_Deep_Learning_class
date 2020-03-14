@@ -7,7 +7,13 @@
   - 첫째 날
     - 딥러닝 이론
     - Keras
-    - 실습 : MS Azure Cloud, MLP(Multi Layer Perceptron) 
+    - 실습 
+      - MS Azure Cloud
+      - MLP > perceptron(AND, NAND, OR, XOR), Diabetes classification
   - 둘째 날
     - 이미지 분류 이론
-    - 실습 : MS Azure Cloud GPU, cifar10 이미지 분류
+    - 실습
+      - MS Azure Cloud GPU
+      - MNIST classification > MLP, CNN
+      - Fashion MNIST classification > CNN
+      - cifar10 classification > CNN 
